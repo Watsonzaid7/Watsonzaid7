@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/zaid-bin-mansoor">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:(your-email)">
+  <a href="mailto:watsonzaid7@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/(your-username)">
