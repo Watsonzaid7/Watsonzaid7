@@ -48,7 +48,20 @@ I build software that solves real-world problems — focusing on backend systems
 
 </div>
 
+<div align="center">
 ```diff
 ╔══════════════════════════════════════════════════════════════╗
  ║                [ GAME DEV + SDE PROFILE ]                   ║
 ╚══════════════════════════════════════════════════════════════╝
+
+</div>
+
+## 🔥 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=risabkshetri&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=00ff41)
+
+</div>
+
+
