@@ -10,8 +10,8 @@
   <a href="mailto:watsonzaid7@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/(your-username)">
-    <img src="https://img.shields.io/github/followers/(your-username)?label=follow&style=social"/>
+  <a href="https://github.com/watsonzaid7">
+    <img src="https://img.shields.io/github/followers/watsonzaid7?label=follow&style=social"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@ I build software that solves real-world problems — focusing on backend systems
 - 🧠 Strong focus on problem-solving, clean architecture, and performance  
 - 🌱 Learning more about system design and backend scalability  
 - 🤝 Open to collaboration on impactful projects in **FinTech / LegalTech**  
-- 📫 Reach me at: (your-email)
+- 📫 Reach me at: watsonzaid7@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
@@ -60,6 +60,6 @@ I build software that solves real-world problems — focusing on backend systems
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=risabkshetri&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=00ff41)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=watsonzaid7&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=00ff41)
 
 </div>
