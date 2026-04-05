@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm Zaid bin Mansoor 👋</h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%7C+Full-Stack;Backend+Developer+%7C+Scalable+Systems;LegalTech+Builder+%7C+Taxwapas;Clean+Code+%7C+Problem+Solving;Building+Real-World+Products" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=watsonzaid7&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <p align="center">
@@ -17,22 +22,49 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
+---
+
 ### 🚀 About Me
 
 Software Developer | Full-Stack Engineer | LegalTech Builder
 
 I build software that solves real-world problems — focusing on backend systems, full-stack applications, and user-centric design. I enjoy turning complex processes into simple, intuitive digital experiences.
 
-- 🔭 Currently working on **Taxwapas** — a platform simplifying ITR filing for individuals in India  
-- 💻 Skilled in Python, full-stack development, and building scalable web applications  
-- 🧠 Strong focus on problem-solving, clean architecture, and performance  
-- 🌱 Learning more about system design and backend scalability  
-- 🤝 Open to collaboration on impactful projects in **FinTech / LegalTech**  
+- 🔭 Currently working on **Taxwapas** — a platform simplifying ITR filing for individuals in India
+- 💻 Skilled in Python, full-stack development, and building scalable web applications
+- 🧠 Strong focus on problem-solving, clean architecture, and performance
+- 🌱 Learning more about system design and backend scalability
+- 🤝 Open to collaboration on impactful projects in **FinTech / LegalTech**
 - 📫 Reach me at: watsonzaid7@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
-</div> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=watsonzaid7&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=watsonzaid7&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&icon_color=00ff41&title_color=00ff41" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watsonzaid7&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&title_color=00ff41" width="48%" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=watsonzaid7&theme=dark&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&sideLabels=00ff41&dates=00ff41&sideNums=00ff41" alt="GitHub Streak"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+
+---
 
 ## 🚀 Tech Stack
 
@@ -47,19 +79,34 @@ I build software that solves real-world problems — focusing on backend systems
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+
+---
+
+## 💼 Featured Projects
+
 <div align="center">
-```diff
-╔══════════════════════════════════════════════════════════════╗
- ║                [ GAME DEV + SDE PROFILE ]                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
+| 🚀 Project | 📄 Description | 🛠️ Tech Stack |
+|:---:|:---:|:---:|
+| [**Taxwapas**](https://github.com/watsonzaid7/taxwapas) | Simplifying ITR filing for individuals in India | Python, Django, MySQL |
 
 </div>
 
-## 🔥 CONTRIBUTION ACTIVITY
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
+
+---
+
+## 🔥 Contribution Activity
 
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=watsonzaid7&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=00ff41)
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5ff-4d1c14c0247f.gif" width="1200">
+  
+  *⭐ Star my repos if you find them useful! Let's connect and build something amazing together.*
 </div>
