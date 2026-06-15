@@ -90,6 +90,7 @@ I build software that solves real-world problems — focusing on backend systems
 | 🚀 Project | 📄 Description | 🛠️ Tech Stack |
 |:---:|:---:|:---:|
 | [**Taxwapas**](https://github.com/watsonzaid7/taxwapas) | Simplifying ITR filing for individuals in India | Python, Django, MySQL |
+| [**SignForge**](https://watsonzaid7.github.io/signforge/) | Professional Handwritten Signature Generator | HTML, CSS, JavaScript |
 
 </div>
 
@@ -106,8 +107,7 @@ I build software that solves real-world problems — focusing on backend systems
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5ff-4d1c14c0247f.gif" width="1200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
   
   *⭐ Star my repos if you find them useful! Let's connect and build something amazing together.*
 </div>
-| [SignForge](https://watsonzaid7.github.io/signforge/) | Professional Signature Generator | HTML, CSS, JavaScript |
